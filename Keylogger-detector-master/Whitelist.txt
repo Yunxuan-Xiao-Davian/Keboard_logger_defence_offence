@@ -1,0 +1,15 @@
+C:\Program Files\WindowsApps\A-Volute.Nahimic_1.9.17.0_x64__w2gh52qy24etm\Nahimic3.exe  
+C:\Windows\System32\spoolsv.exe  
+D:\mysql\3381\bin\mysqld.exe  
+
+C:\Windows\system32\sihost.exe  
+C:\Windows\system32\wbem\wmiprvse.exe  
+C:\Windows\system32\ctfmon.exe  
+C:\Windows\system32\dwm.exe  
+C:\Windows\system32\SearchIndexer.exe  
+C:\Windows\system32\conhost.exe  
+C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.823.3261.0_x64__8wekyb3d8bbwe\GameBar.exe  
+C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.823.3261.0_x64__8wekyb3d8bbwe\GameBar.exe  
+C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.823.3261.0_x64__8wekyb3d8bbwe\GameBarFTServer.exe  
+C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.823.3261.0_x64__8wekyb3d8bbwe\GameBarFTServer.exe  
+C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.823.3261.0_x64__8wekyb3d8bbwe\GameBarFTServer.exe  
